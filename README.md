@@ -18,7 +18,7 @@
 
 - 🧠 **Agent Architecture & Tooling**: Dedicated to building production-ready autonomous agents, structured tool-use systems (ReAct, function calling, subagent coordination), and protocol-driven integrations.
 - 🎙️ **Multimodal & Audio Intelligence**: Creator of **[Gemini TTS Deck](https://github.com/wanxiao2018/gemini-tts-deck)** — A hyper-realistic speech synthesis recording console powered by Gemini 3.8 Flash TTS with dual-mode UI, FastAPI backend, and Docker deployment.
-- 🔌 **Skills & Protocol Integration**: Built developer-focused agent skills including **[youtube-subtitle-downloader](https://github.com/wanxiao2018/youtube-subtitle-downloader)** (Claude Code native skill & standalone CLI) and intelligent document conversion pipelines.
+- 🔌 **Skills & Protocol Integration**: Built developer-focused agent skills including **[youtube-subtitle-downloader](https://github.com/wanxiao2018/youtube-subtitle-downloader)** (native Agent skill & standalone CLI) and intelligent document conversion pipelines.
 - ⚡ **Engineering Standards**: Focused on high-performance asynchronous backends (`asyncio`, `httpx`, FastAPI), type-safe schema validation (Pydantic), and containerized deployments.
 
 ---
@@ -28,16 +28,10 @@
 <div align="center">
 
 #### 🤖 Agent Architecture & Protocols
-![MCP](https://img.shields.io/badge/Protocol-Model%20Context%20Protocol%20(MCP)-0969da?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/Protocol-Model%20Context%20Protocol%20(MCP)-0969da?style=for-the-badge)
 ![Tool Use](https://img.shields.io/badge/Pattern-Tool%20Use%20%26%20ReAct-5856D6?style=for-the-badge)
 ![Multi-Agent](https://img.shields.io/badge/Systems-Multi--Agent%20Orchestration-8E75C2?style=for-the-badge)
 ![Pydantic](https://img.shields.io/badge/Structured%20Output-Pydantic%20v2-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-
-#### 🧠 LLM Ecosystem & Multimodal AI
-![Claude](https://img.shields.io/badge/Anthropic-Claude%203.7%20%7C%20Code%20Skills-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google-Gemini%202.5%20%7C%203.8%20Flash%20TTS-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o%20%7C%20Function%20Calling-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Audio Engineering](https://img.shields.io/badge/Multimodal-Audio%20%26%20Speech%20AI-FF6B6B?style=for-the-badge&logo=soundcharts&logoColor=white)
 
 #### ⚙️ Backend & Agent Execution Runtime
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,7 +54,7 @@
 | Project | Highlights & Tech Stack | Focus Area |
 | :--- | :--- | :--- |
 | 🎙️ **[gemini-tts-deck](https://github.com/wanxiao2018/gemini-tts-deck)** | Hyper-realistic Studio TTS Recording Console with Gemini 3.8 Flash TTS, FastAPI backend, CLI launcher & Docker | Audio & Multimodal Agent |
-| 📥 **[youtube-subtitle-downloader](https://github.com/wanxiao2018/youtube-subtitle-downloader)** | Agent skill for Claude Code and standalone CLI extracting structured Markdown subtitles for LLM workflows | Agent Tool & Skill |
+| 📥 **[youtube-subtitle-downloader](https://github.com/wanxiao2018/youtube-subtitle-downloader)** | Native Agent skill and standalone CLI extracting structured Markdown subtitles for LLM workflows | Agent Tool & Skill |
 | 📝 **[md2word](https://github.com/wanxiao2018/md2word)** | Automated document processing pipeline transforming AI Markdown into Word-ready rich text and PDF with math formulas | Document AI & Tooling |
 | 🗺️ **[agent-atlas](https://github.com/wanxiao2018/agent-atlas)** | Framework exploring autonomous agent workflows, task execution patterns, and tool orchestration | Agent Architecture |
 
