@@ -66,8 +66,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wanxiao2018&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=1f2328&count_private=true&exclude_repo=cs146s-assignments-2025,cs146s-assignments-2026" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanxiao2018&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328&exclude_repo=cs146s-assignments-2025,cs146s-assignments-2026" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=wanxiao2018&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=1f2328&count_private=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanxiao2018&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328" height="165" alt="Top Languages" />
 
 <br/>
 
