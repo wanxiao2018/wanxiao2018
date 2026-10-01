@@ -2,63 +2,67 @@
 
 # Hi there, I'm wanxiao2018 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0969da&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Full-Stack+Builder;Building+Agentic+Tools+%26+Audio+AI;Creator+of+Gemini+TTS+Deck;Passionate+about+Open+Source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0969da&center=true&vCenter=true&width=550&lines=AI+Agent+Application+Engineer;Building+Autonomous+Agents+%26+MCP+Tooling;Tool+Use+%E2%80%A2+Multi-Agent+Workflows+%E2%80%A2+Audio+AI;Creator+of+Gemini+TTS+Deck)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://github.com/wanxiao2018"><img src="https://komarev.com/ghpvc/?username=wanxiao2018&color=0969da&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /></a>
-  <img src="https://img.shields.io/badge/Focus-Generative%20AI%20%7C%20Agents%20%7C%20Audio-blueviolet?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Open%20Source-Passionate-success?style=flat-square" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Role-AI%20Agent%20Application%20Engineer-0969da?style=flat-square" alt="Role: AI Agent Application Engineer" />
+  <img src="https://img.shields.io/badge/Focus-Agent%20Architectures%20%7C%20MCP%20%7C%20Audio%20AI-5856D6?style=flat-square" alt="Focus: Agent Architectures" />
+  <img src="https://img.shields.io/badge/Building-Production%20Agent%20Tools-success?style=flat-square" alt="Status" />
 </p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+### 🤖 About Me
 
-- 🎙️ **Audio & AI Innovation**: Built **[Gemini TTS Deck](https://github.com/wanxiao2018/gemini-tts-deck)** — A hyper-realistic, multi-speaker studio console powered by Gemini 3.8 Flash TTS.
-- 🤖 **Agentic & Developer Tooling**: Author of **[youtube-subtitle-downloader](https://github.com/wanxiao2018/youtube-subtitle-downloader)** (Claude Code skill & CLI) and **[md2word](https://github.com/wanxiao2018/md2word)** (AI Markdown rich-text converter).
-- 💡 **Engineering Philosophy**: Passionate about clean architecture, intuitive human-AI interfaces, high performance, and open source.
-- 💬 **Ask me about**: Python, Agentic AI, FastAPI, TTS & Audio Engineering, Full-Stack Web Development.
+- 🧠 **Agent Architecture & Tooling**: Dedicated to building production-ready autonomous agents, structured tool-use systems (ReAct, function calling, subagent coordination), and protocol-driven integrations.
+- 🎙️ **Multimodal & Audio Intelligence**: Creator of **[Gemini TTS Deck](https://github.com/wanxiao2018/gemini-tts-deck)** — A hyper-realistic speech synthesis recording console powered by Gemini 3.8 Flash TTS with dual-mode UI, FastAPI backend, and Docker deployment.
+- 🔌 **Skills & Protocol Integration**: Built developer-focused agent skills including **[youtube-subtitle-downloader](https://github.com/wanxiao2018/youtube-subtitle-downloader)** (Claude Code native skill & standalone CLI) and intelligent document conversion pipelines.
+- ⚡ **Engineering Standards**: Focused on high-performance asynchronous backends (`asyncio`, `httpx`, FastAPI), type-safe schema validation (Pydantic), and containerized deployments.
 
 ---
 
-### 🛠️ Tech Stack & Toolbelt
+### 🛠️ Agent Engineering Toolbelt
 
 <div align="center">
 
-#### AI & Generative Workflows
-![Gemini API](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude%20Anthropic-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![TTS & Audio](https://img.shields.io/badge/Audio%20Engineering-FF6B6B?style=for-the-badge&logo=soundcharts&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4ECDC4?style=for-the-badge&logo=openai&logoColor=white)
+#### 🤖 Agent Architecture & Protocols
+![MCP](https://img.shields.io/badge/Protocol-Model%20Context%20Protocol%20(MCP)-0969da?style=for-the-badge&logo=anthropic&logoColor=white)
+![Tool Use](https://img.shields.io/badge/Pattern-Tool%20Use%20%26%20ReAct-5856D6?style=for-the-badge)
+![Multi-Agent](https://img.shields.io/badge/Systems-Multi--Agent%20Orchestration-8E75C2?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Structured%20Output-Pydantic%20v2-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
-#### Backend & Core Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+#### 🧠 LLM Ecosystem & Multimodal AI
+![Claude](https://img.shields.io/badge/Anthropic-Claude%203.7%20%7C%20Code%20Skills-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google-Gemini%202.5%20%7C%203.8%20Flash%20TTS-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o%20%7C%20Function%20Calling-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Audio Engineering](https://img.shields.io/badge/Multimodal-Audio%20%26%20Speech%20AI-FF6B6B?style=for-the-badge&logo=soundcharts&logoColor=white)
 
-#### Frontend, Deployment & DevOps
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#### ⚙️ Backend & Agent Execution Runtime
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-High--Performance%20Async-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Async Concurrency](https://img.shields.io/badge/Concurrency-Asyncio%20%7C%20HTTPX-24292F?style=for-the-badge)
+![CLI Tooling](https://img.shields.io/badge/CLI-Typer%20%7C%20Click-43B02A?style=for-the-badge)
+
+#### 🚢 Deployment, DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Environment-Linux%20%7C%20macOS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Workflows%20%26%20Releases-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Agent Projects
 
-| Project | Highlights & Tech | Category |
+| Project | Highlights & Tech Stack | Focus Area |
 | :--- | :--- | :--- |
-| 🎙️ **[gemini-tts-deck](https://github.com/wanxiao2018/gemini-tts-deck)** | Hyper-realistic Studio TTS Recording Console with Gemini 3.8 Flash, dual-mode UI, and Docker | Audio & Generative AI |
-| 📥 **[youtube-subtitle-downloader](https://github.com/wanxiao2018/youtube-subtitle-downloader)** | YouTube subtitle extractor converting to clean Markdown. Works as Claude Code skill or CLI | Developer & Agent Tool |
-| 📝 **[md2word](https://github.com/wanxiao2018/md2word)** | Converts AI Markdown into Word-ready rich text, `.docx`, and PDF with editable math equations | Productivity & Document AI |
-| 🧠 **[mbti-website](https://github.com/wanxiao2018/mbti-website)** | Interactive MBTI 16-personality showcase with immersive canvas particle animations & dark theme | Modern Web Experience |
+| 🎙️ **[gemini-tts-deck](https://github.com/wanxiao2018/gemini-tts-deck)** | Hyper-realistic Studio TTS Recording Console with Gemini 3.8 Flash TTS, FastAPI backend, CLI launcher & Docker | Audio & Multimodal Agent |
+| 📥 **[youtube-subtitle-downloader](https://github.com/wanxiao2018/youtube-subtitle-downloader)** | Agent skill for Claude Code and standalone CLI extracting structured Markdown subtitles for LLM workflows | Agent Tool & Skill |
+| 📝 **[md2word](https://github.com/wanxiao2018/md2word)** | Automated document processing pipeline transforming AI Markdown into Word-ready rich text and PDF with math formulas | Document AI & Tooling |
+| 🗺️ **[agent-atlas](https://github.com/wanxiao2018/agent-atlas)** | Framework exploring autonomous agent workflows, task execution patterns, and tool orchestration | Agent Architecture |
 
 ---
 
@@ -78,5 +82,5 @@
 ---
 
 <div align="center">
-  <sub>Crafted with passion & curiosity. Constantly exploring the boundaries of AI & Code.</sub>
+  <sub>Crafted with passion & engineering precision. Exploring the frontiers of Agentic AI.</sub>
 </div>
