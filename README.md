@@ -23,32 +23,6 @@
 
 ---
 
-### 🛠️ Agent Engineering Toolbelt
-
-<div align="center">
-
-#### 🤖 Agent Architecture & Protocols
-![MCP](https://img.shields.io/badge/Protocol-Model%20Context%20Protocol%20(MCP)-0969da?style=for-the-badge)
-![Tool Use](https://img.shields.io/badge/Pattern-Tool%20Use%20%26%20ReAct-5856D6?style=for-the-badge)
-![Multi-Agent](https://img.shields.io/badge/Systems-Multi--Agent%20Orchestration-8E75C2?style=for-the-badge)
-![Pydantic](https://img.shields.io/badge/Structured%20Output-Pydantic%20v2-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-
-#### ⚙️ Backend & Agent Execution Runtime
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-High--Performance%20Async-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Async Concurrency](https://img.shields.io/badge/Concurrency-Asyncio%20%7C%20HTTPX-24292F?style=for-the-badge)
-![CLI Tooling](https://img.shields.io/badge/CLI-Typer%20%7C%20Click-43B02A?style=for-the-badge)
-
-#### 🚢 Deployment, DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Environment-Linux%20%7C%20macOS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-Workflows%20%26%20Releases-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
 ### 🌟 Featured Agent Projects
 
 | Project | Highlights & Tech Stack | Focus Area |
