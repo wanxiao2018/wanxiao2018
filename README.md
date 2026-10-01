@@ -2,10 +2,10 @@
 
 # Hi there, I'm wanxiao2018 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Full-Stack+Builder;Building+Agentic+Tools+%26+Audio+AI;Creator+of+Gemini+TTS+Deck;Passionate+about+Open+Source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0969da&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Full-Stack+Builder;Building+Agentic+Tools+%26+Audio+AI;Creator+of+Gemini+TTS+Deck;Passionate+about+Open+Source)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://github.com/wanxiao2018"><img src="https://komarev.com/ghpvc/?username=wanxiao2018&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+  <a href="https://github.com/wanxiao2018"><img src="https://komarev.com/ghpvc/?username=wanxiao2018&color=0969da&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /></a>
   <img src="https://img.shields.io/badge/Focus-Generative%20AI%20%7C%20Agents%20%7C%20Audio-blueviolet?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Open%20Source-Passionate-success?style=flat-square" alt="Open Source" />
 </p>
@@ -18,7 +18,7 @@
 
 - 🎙️ **Audio & AI Innovation**: Built **[Gemini TTS Deck](https://github.com/wanxiao2018/gemini-tts-deck)** — A hyper-realistic, multi-speaker studio console powered by Gemini 3.8 Flash TTS.
 - 🤖 **Agentic & Developer Tooling**: Author of **[youtube-subtitle-downloader](https://github.com/wanxiao2018/youtube-subtitle-downloader)** (Claude Code skill & CLI) and **[md2word](https://github.com/wanxiao2018/md2word)** (AI Markdown rich-text converter).
-- 🎓 **Lifelong Craft**: Stanford CS146S Modern Software Developer coursework explorer, passionate about clean architecture, intuitive UX, and open source.
+- 💡 **Engineering Philosophy**: Passionate about clean architecture, intuitive human-AI interfaces, high performance, and open source.
 - 💬 **Ask me about**: Python, Agentic AI, FastAPI, TTS & Audio Engineering, Full-Stack Web Development.
 
 ---
@@ -66,12 +66,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wanxiao2018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanxiao2018&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=wanxiao2018&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=1f2328&count_private=true&exclude_repo=cs146s-assignments-2025,cs146s-assignments-2026" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanxiao2018&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328&exclude_repo=cs146s-assignments-2025,cs146s-assignments-2026" height="165" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wanxiao2018&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wanxiao2018&hide_border=true&background=00000000&ring=0969da&fire=0969da&currStreakNum=0969da&sideNums=1f2328&sideLabels=656d76&dates=656d76&currStreakLabel=0969da" alt="GitHub Streak" />
 
 </div>
 
