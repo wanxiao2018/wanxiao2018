@@ -2,7 +2,7 @@
 
 # Hi there, I'm wanxiao2018 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0969da&center=true&vCenter=true&width=550&lines=AI+Agent+Application+Engineer;Building+Autonomous+Agents+%26+MCP+Tooling;Tool+Use+%E2%80%A2+Multi-Agent+Workflows+%E2%80%A2+Audio+AI;Creator+of+sub2study+%26+Gemini+TTS+Deck)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0969da&center=true&vCenter=true&width=550&lines=AI+Agent+Application+Engineer;Building+Autonomous+Agents+%26+MCP+Tooling;Tool+Use+%E2%80%A2+Multi-Agent+Workflows+%E2%80%A2+Audio+AI;Creator+of+russian-stress-extension+%26+sub2study)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-AI%20Agent%20Application%20Engineer-0969da?style=flat-square" alt="Role: AI Agent Application Engineer" />
@@ -18,15 +18,17 @@
 
 - 🧠 **Agent Architecture & Tooling**: Dedicated to building production-ready autonomous agents, structured tool-use systems (ReAct, function calling, subagent coordination), and protocol-driven integrations.
 - 🎙️ **Multimodal & Audio Intelligence**: Creator of **[Gemini TTS Deck](https://github.com/wanxiao2018/gemini-tts-deck)** — A hyper-realistic speech synthesis recording console powered by Gemini 3.8 Flash TTS with dual-mode UI, FastAPI backend, and Docker deployment.
-- 🔌 **Skills & Protocol Integration**: Built developer-focused agent skills including **[sub2study](https://github.com/wanxiao2018/sub2study)** (publication-grade bilingual study guide pipeline with ASR restructuring & whole-word typography) and **[youtube-subtitle-downloader](https://github.com/wanxiao2018/youtube-subtitle-downloader)**.
+- 🌐 **Language AI & Browser Tools**: Creator of **[russian-stress-extension](https://github.com/wanxiao2018/russian-stress-extension)** (100% offline Chrome/Edge extension annotating Russian word stress) and **[sub2study](https://github.com/wanxiao2018/sub2study)** (publication-grade bilingual study guide pipeline).
+- 🔌 **Skills & Protocol Integration**: Built developer-focused agent skills including **[youtube-subtitle-downloader](https://github.com/wanxiao2018/youtube-subtitle-downloader)** and automated documentation tools like **[md2word](https://github.com/wanxiao2018/md2word)**.
 - ⚡ **Engineering Standards**: Focused on high-performance asynchronous backends (`asyncio`, `httpx`, FastAPI), type-safe schema validation (Pydantic), and containerized deployments.
 
 ---
 
-### 🌟 Featured Agent Projects
+### 🌟 Featured Projects
 
 | Project | Highlights & Tech Stack | Focus Area |
 | :--- | :--- | :--- |
+| 🇷🇺 **[russian-stress-extension](https://github.com/wanxiao2018/russian-stress-extension)** | 100% offline Chrome/Edge extension adding Russian word stress marks across web pages, selections & inputs with 1.1M+ OpenRussian inflections | Language Learning & Browser Extension |
 | 🎓 **[sub2study](https://github.com/wanxiao2018/sub2study)** | Transform raw YouTube subtitles into publication-grade bilingual study guides (A4 PDF & Markdown notes) with ASR restructuring, IPA vocabulary & multi-agent support | Language AI & Agent Tooling |
 | 🎙️ **[gemini-tts-deck](https://github.com/wanxiao2018/gemini-tts-deck)** | Hyper-realistic Studio TTS Recording Console with Gemini 3.8 Flash TTS, FastAPI backend, CLI launcher & Docker | Audio & Multimodal Agent |
 | 📥 **[youtube-subtitle-downloader](https://github.com/wanxiao2018/youtube-subtitle-downloader)** | Native Agent skill and standalone CLI extracting structured Markdown subtitles for LLM workflows | Agent Tool & Skill |
