@@ -1,58 +1,61 @@
 <div align="center">
 
-# Hi there, I'm wanxiao2018 👋
+# wanxiao2018
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0969da&center=true&vCenter=true&width=550&lines=AI+Agent+Application+Engineer;Building+Autonomous+Agents+%26+MCP+Tooling;Multi-Agent+Workflows+%E2%80%A2+Browser+Extensions+%E2%80%A2+Audio+AI;Creator+of+attentionflow+%E2%80%A2+russian-stress-extension+%E2%80%A2+sub2study)](https://git.io/typing-svg)
+**I build small tools for the messy parts between AI and real work.**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-AI%20Agent%20Application%20Engineer-0969da?style=flat-square" alt="Role: AI Agent Application Engineer" />
-  <img src="https://img.shields.io/badge/Focus-Agent%20Architectures%20%7C%20MCP%20%7C%20Audio%20AI-5856D6?style=flat-square" alt="Focus: Agent Architectures" />
-  <img src="https://img.shields.io/badge/Building-Production%20Agent%20Tools-success?style=flat-square" alt="Status" />
-</p>
+`local-first software` · `agent-native workflows` · `language & media tools`
 
 </div>
 
+Most of my projects start with a simple thought: **this is annoying — why isn't there a tool for it?**
+
+I like turning workflows I actually use into small open-source products that are easy to understand, useful quickly, and opinionated enough to feel like products rather than demos.
+
+## Selected builds
+
+### 🌊 [AttentionFlow](https://github.com/wanxiao2018/attentionflow)
+**See where your attention actually went.**
+
+A local-first browser extension for reconstructing what you passed, noticed, clicked, and actually read while browsing. The first adapter focuses on Linux DO; the broader idea is personal analytics for attention without sending browsing history to a server.
+
+### 🎓 [sub2study](https://github.com/wanxiao2018/sub2study)
+**Turn raw YouTube subtitles into a study guide.**
+
+A pipeline for transforming messy subtitles into structured bilingual learning material with timestamps, vocabulary, IPA, Markdown, and printable PDF output.
+
+### 📝 [md2word](https://github.com/wanxiao2018/md2word)
+**Turn AI Markdown into Word and PDF without wrecking the document.**
+
+A document pipeline for converting Markdown-heavy AI output — including equations and rich formatting — into files that are easier to submit, edit, and share.
+
+### 🇷🇺 [russian-stress-extension](https://github.com/wanxiao2018/russian-stress-extension)
+**Add Russian stress marks anywhere on the web, offline.**
+
+A Chrome/Edge extension for Russian learners that annotates stress directly on webpages, selections, and inputs using a fully local dictionary pipeline.
+
+## More experiments
+
+- 🎙️ [gemini-tts-deck](https://github.com/wanxiao2018/gemini-tts-deck) — a recording-console interface for AI speech generation.
+- 📥 [youtube-subtitle-downloader](https://github.com/wanxiao2018/youtube-subtitle-downloader) — a small agent-friendly tool for extracting structured subtitles.
+- 🗺️ [agent-atlas](https://github.com/wanxiao2018/agent-atlas) — experiments around agents, tools, and autonomous workflows.
+- 🌐 [laiekankan](https://github.com/wanxiao2018/laiekankan) — another product experiment from the same “build the tool I wish existed” habit.
+
+## What I care about
+
+- **Useful before impressive.** A project should solve a real annoyance before it shows off a stack.
+- **The first 10 seconds matter.** People should be able to understand what a tool does without reading an architecture document.
+- **Local-first when it makes sense.** Personal data should not need to leave the device just to become useful.
+- **AI should produce artifacts, not just answers.** I am especially interested in workflows that turn models into tools people can actually use, edit, and ship.
+
+## Currently exploring
+
+I am spending more time on **agent-native tools, personal software, and making open-source projects easier to understand and launch**.
+
+If one of these projects is useful to you, open an issue, send a PR, or just follow along — there will be more.
+
 ---
-
-### 🤖 About Me
-
-- 🧠 **Agent Architecture & Tooling**: Dedicated to building production-ready autonomous agents, structured tool-use systems (ReAct, function calling, subagent coordination), and protocol-driven integrations.
-- 🌊 **Browser Extensions & Local-First Systems**: Creator of **[attentionflow](https://github.com/wanxiao2018/attentionflow)** (local-first Chrome extension reconstructing reading attention & engagement funnels on Linux DO with TypeScript, React, WXT & Dexie) and **[russian-stress-extension](https://github.com/wanxiao2018/russian-stress-extension)** (100% offline Chrome/Edge extension annotating Russian word stress).
-- 🎙️ **Multimodal & Audio Intelligence**: Creator of **[Gemini TTS Deck](https://github.com/wanxiao2018/gemini-tts-deck)** — A hyper-realistic speech synthesis recording console powered by Gemini 3.8 Flash TTS with dual-mode UI, FastAPI backend, and Docker deployment.
-- 🎓 **Language AI & Document Pipelines**: Creator of **[sub2study](https://github.com/wanxiao2018/sub2study)** (publication-grade bilingual study guide pipeline with ASR restructuring & whole-word typography) and developer-focused skills like **[youtube-subtitle-downloader](https://github.com/wanxiao2018/youtube-subtitle-downloader)**.
-- ⚡ **Engineering Standards**: Focused on high-performance asynchronous backends (`asyncio`, `httpx`, FastAPI), type-safe schema validation (Pydantic), and containerized deployments.
-
----
-
-### 🌟 Featured Projects
-
-| Project | Highlights & Tech Stack | Focus Area |
-| :--- | :--- | :--- |
-| 🌊 **[attentionflow](https://github.com/wanxiao2018/attentionflow)** | Local-first Chrome extension for reconstructing reading attention & engagement funnels on Linux DO | TypeScript, React, WXT, Dexie (IndexedDB) |
-| 🇷🇺 **[russian-stress-extension](https://github.com/wanxiao2018/russian-stress-extension)** | 100% offline Chrome/Edge extension adding Russian word stress marks across web pages, selections & inputs with 1.1M+ OpenRussian inflections | Language Learning & Browser Extension |
-| 🎓 **[sub2study](https://github.com/wanxiao2018/sub2study)** | Transform raw YouTube subtitles into publication-grade bilingual study guides (A4 PDF & Markdown notes) with ASR restructuring, IPA vocabulary & multi-agent support | Language AI & Agent Tooling |
-| 🎙️ **[gemini-tts-deck](https://github.com/wanxiao2018/gemini-tts-deck)** | Hyper-realistic Studio TTS Recording Console with Gemini 3.8 Flash TTS, FastAPI backend, CLI launcher & Docker | Audio & Multimodal Agent |
-| 📥 **[youtube-subtitle-downloader](https://github.com/wanxiao2018/youtube-subtitle-downloader)** | Native Agent skill and standalone CLI extracting structured Markdown subtitles for LLM workflows | Agent Tool & Skill |
-| 📝 **[md2word](https://github.com/wanxiao2018/md2word)** | Automated document processing pipeline transforming AI Markdown into Word-ready rich text and PDF with math formulas | Document AI & Tooling |
-| 🗺️ **[agent-atlas](https://github.com/wanxiao2018/agent-atlas)** | Framework exploring autonomous agent workflows, task execution patterns, and tool orchestration | Agent Architecture |
-
----
-
-### 📊 GitHub Activity & Metrics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=wanxiao2018&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=1f2328&count_private=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanxiao2018&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328" height="165" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wanxiao2018&hide_border=true&background=00000000&ring=0969da&fire=0969da&currStreakNum=0969da&sideNums=1f2328&sideLabels=656d76&dates=656d76&currStreakLabel=0969da" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-  <sub>Crafted with passion & engineering precision. Exploring the frontiers of Agentic AI.</sub>
+  <sub>Build things. Use them. Notice what still feels annoying. Build again.</sub>
 </div>
